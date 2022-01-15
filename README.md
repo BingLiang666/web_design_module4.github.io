@@ -5,7 +5,7 @@ The URL for the corresponding web page is here:https://bingliang666.github.io/we
 
 Please check out the console of this web page to see the result.
 
-Steps of open console in MacOS system:
-1. Open the URL
+Steps of opening console in MacOS system:
+1. Open the URL in Chrome browser
 2. Press "command + option + i" to open the inspect tool
 3. Click the console in inspect
